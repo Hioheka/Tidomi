@@ -1,0 +1,70 @@
+{
+  "app": {
+    "title": "Tidomi - Temizlik Hizmeti Platformu"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetler",
+    "cart": "Sepet",
+    "bookings": "Randevularım",
+    "login": "Giriş",
+    "register": "Kayıt",
+    "logout": "Çıkış",
+    "dashboard": "Panel"
+  },
+  "auth": {
+    "login": {
+      "title": "Giriş Yap",
+      "email": "E-posta",
+      "password": "Şifre",
+      "submit": "Giriş Yap",
+      "noAccount": "Hesabınız yok mu?",
+      "registerLink": "Buradan kayıt olun"
+    },
+    "register": {
+      "title": "Kayıt Ol",
+      "firstName": "Ad",
+      "lastName": "Soyad",
+      "email": "E-posta",
+      "password": "Şifre",
+      "phoneNumber": "Telefon Numarası",
+      "submit": "Kayıt Ol",
+      "haveAccount": "Zaten hesabınız var mı?",
+      "loginLink": "Buradan giriş yapın"
+    }
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "addToCart": "Sepete Ekle",
+    "price": "Fiyat",
+    "duration": "Süre",
+    "minutes": "dakika"
+  },
+  "cart": {
+    "title": "Alışveriş Sepeti",
+    "empty": "Sepetiniz boş",
+    "total": "Toplam",
+    "checkout": "Ödemeye Geç",
+    "remove": "Kaldır",
+    "quantity": "Miktar"
+  },
+  "booking": {
+    "title": "Randevu Oluştur",
+    "scheduledDate": "Randevu Tarihi",
+    "scheduledTime": "Randevu Saati",
+    "address": "Adres",
+    "city": "Şehir",
+    "district": "İlçe",
+    "postalCode": "Posta Kodu",
+    "notes": "Notlar",
+    "submit": "Randevu Oluştur",
+    "myBookings": "Randevularım",
+    "status": "Durum",
+    "bookingNumber": "Randevu Numarası"
+  },
+  "payment": {
+    "title": "Ödeme",
+    "todo": "Ödeme entegrasyonu bir sonraki aşamada yapılacaktır",
+    "backToBookings": "Randevularıma Dön"
+  }
+}

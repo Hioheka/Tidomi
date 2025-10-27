@@ -1,0 +1,70 @@
+{
+  "app": {
+    "title": "Tidomi - Cleaning Service Platform"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "cart": "Cart",
+    "bookings": "My Bookings",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "dashboard": "Dashboard"
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Login",
+      "noAccount": "Don't have an account?",
+      "registerLink": "Register here"
+    },
+    "register": {
+      "title": "Register",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "password": "Password",
+      "phoneNumber": "Phone Number",
+      "submit": "Register",
+      "haveAccount": "Already have an account?",
+      "loginLink": "Login here"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "addToCart": "Add to Cart",
+    "price": "Price",
+    "duration": "Duration",
+    "minutes": "minutes"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "remove": "Remove",
+    "quantity": "Quantity"
+  },
+  "booking": {
+    "title": "Create Booking",
+    "scheduledDate": "Scheduled Date",
+    "scheduledTime": "Scheduled Time",
+    "address": "Address",
+    "city": "City",
+    "district": "District",
+    "postalCode": "Postal Code",
+    "notes": "Notes",
+    "submit": "Create Booking",
+    "myBookings": "My Bookings",
+    "status": "Status",
+    "bookingNumber": "Booking Number"
+  },
+  "payment": {
+    "title": "Payment",
+    "todo": "Payment integration will be implemented in the next phase",
+    "backToBookings": "Back to My Bookings"
+  }
+}
