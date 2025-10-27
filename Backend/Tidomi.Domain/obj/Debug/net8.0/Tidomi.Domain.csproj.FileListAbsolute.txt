@@ -1,0 +1,11 @@
+/home/user/Tidomi/Backend/Tidomi.Domain/bin/Debug/net8.0/Tidomi.Domain.deps.json
+/home/user/Tidomi/Backend/Tidomi.Domain/bin/Debug/net8.0/Tidomi.Domain.dll
+/home/user/Tidomi/Backend/Tidomi.Domain/bin/Debug/net8.0/Tidomi.Domain.pdb
+/home/user/Tidomi/Backend/Tidomi.Domain/obj/Debug/net8.0/Tidomi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Tidomi/Backend/Tidomi.Domain/obj/Debug/net8.0/Tidomi.Domain.AssemblyInfoInputs.cache
+/home/user/Tidomi/Backend/Tidomi.Domain/obj/Debug/net8.0/Tidomi.Domain.AssemblyInfo.cs
+/home/user/Tidomi/Backend/Tidomi.Domain/obj/Debug/net8.0/Tidomi.Domain.csproj.CoreCompileInputs.cache
+/home/user/Tidomi/Backend/Tidomi.Domain/obj/Debug/net8.0/Tidomi.Domain.dll
+/home/user/Tidomi/Backend/Tidomi.Domain/obj/Debug/net8.0/refint/Tidomi.Domain.dll
+/home/user/Tidomi/Backend/Tidomi.Domain/obj/Debug/net8.0/Tidomi.Domain.pdb
+/home/user/Tidomi/Backend/Tidomi.Domain/obj/Debug/net8.0/ref/Tidomi.Domain.dll
