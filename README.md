@@ -2,7 +2,7 @@
 
 A full-stack web application for booking professional cleaning services built with .NET Core 8, Angular 20, PostgreSQL, and Swagger.
 
-## 🚀 Features
+## Features
 
 ### Customer Features
 - User Authentication with JWT
@@ -22,7 +22,7 @@ A full-stack web application for booking professional cleaning services built wi
 - Assign staff to bookings
 - Manage services and categories
 
-## 📋 Tech Stack
+## Tech Stack
 
 **Backend:**
 - .NET Core 8 Web API
@@ -39,7 +39,7 @@ A full-stack web application for booking professional cleaning services built wi
 - ngx-translate (i18n)
 - SCSS
 
-## 🛠️ Installation
+## Installation
 
 ### Prerequisites
 - .NET 8 SDK
@@ -69,7 +69,7 @@ npm start
 
 **App will run on:** `http://localhost:4200`
 
-## 📚 API Endpoints
+## API Endpoints
 
 ### Authentication
 ```
@@ -92,7 +92,7 @@ GET  /api/bookings/{id}         - Get booking details
 GET  /api/bookings/all          - Get all bookings (Admin/Staff)
 ```
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 Tidomi/
@@ -110,7 +110,7 @@ Tidomi/
 └── README.md
 ```
 
-## 🔐 Authentication
+## Authentication
 
 JWT tokens are issued on login/register. Include in requests:
 ```
@@ -119,20 +119,20 @@ Authorization: Bearer {token}
 
 **Roles:** Customer, Staff, Admin
 
-## 🌍 Multi-language Support
+## Multi-language Support
 
 Supports English and Turkish. Translation files:
 - `Frontend/src/assets/i18n/en.json`
 - `Frontend/src/assets/i18n/tr.json`
 
-## 💳 Payment (TODO)
+## Payment (TODO)
 
 Payment page is a placeholder. Future integrations:
 - iyzico (Turkish payment gateway)
 - PayTR (Turkish payment gateway)
 - Stripe (International)
 
-## 🎯 Usage Flow
+## Usage Flow
 
 1. **Register/Login** → Create account or sign in
 2. **Browse Services** → View cleaning services by category
@@ -142,7 +142,7 @@ Payment page is a placeholder. Future integrations:
 6. **Payment** → (TODO) Complete payment
 7. **Track Booking** → View booking status
 
-## 🧪 Testing
+## Testing
 
 **Swagger UI:** `http://localhost:5000/swagger`
 
@@ -151,14 +151,14 @@ Payment page is a placeholder. Future integrations:
 3. Click "Authorize" in Swagger, enter: `Bearer {token}`
 4. Test authenticated endpoints
 
-## 📦 Seeded Data
+## Seeded Data
 
 Initial database includes:
 - 4 Service Categories
 - 5 Sample Services
 - Various pricing models (Hourly, Package, Per-Area)
 
-## 🚀 Deployment
+## Deployment
 
 **Backend:**
 ```bash
@@ -172,17 +172,17 @@ npm run build
 
 Deploy `dist/` folder to your hosting service.
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 **Database Connection:** Update `appsettings.json` with your PostgreSQL credentials
 **CORS Issues:** Backend configured for `localhost:4200`
 **Port Conflicts:** Change ports in `launchSettings.json` or `angular.json`
 
-## 📝 License
+## License
 
 MIT License
 
-## 👨‍💻 Development
+## Development
 
 **Backend (with hot reload):**
 ```bash
